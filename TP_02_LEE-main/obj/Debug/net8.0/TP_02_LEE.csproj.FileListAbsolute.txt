@@ -1,0 +1,14 @@
+Z:\Programacion\TP_02_LEE\obj\Debug\net8.0\TP_02_LEE.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programacion\TP_02_LEE\obj\Debug\net8.0\TP_02_LEE.AssemblyInfoInputs.cache
+Z:\Programacion\TP_02_LEE\obj\Debug\net8.0\TP_02_LEE.AssemblyInfo.cs
+Z:\Programacion\TP_02_LEE\obj\Debug\net8.0\TP_02_LEE.csproj.CoreCompileInputs.cache
+Z:\Programacion\TP_02_LEE\bin\Debug\net8.0\TP_02_LEE.exe
+Z:\Programacion\TP_02_LEE\bin\Debug\net8.0\TP_02_LEE.deps.json
+Z:\Programacion\TP_02_LEE\bin\Debug\net8.0\TP_02_LEE.runtimeconfig.json
+Z:\Programacion\TP_02_LEE\bin\Debug\net8.0\TP_02_LEE.dll
+Z:\Programacion\TP_02_LEE\bin\Debug\net8.0\TP_02_LEE.pdb
+Z:\Programacion\TP_02_LEE\obj\Debug\net8.0\TP_02_LEE.dll
+Z:\Programacion\TP_02_LEE\obj\Debug\net8.0\refint\TP_02_LEE.dll
+Z:\Programacion\TP_02_LEE\obj\Debug\net8.0\TP_02_LEE.pdb
+Z:\Programacion\TP_02_LEE\obj\Debug\net8.0\TP_02_LEE.genruntimeconfig.cache
+Z:\Programacion\TP_02_LEE\obj\Debug\net8.0\ref\TP_02_LEE.dll
