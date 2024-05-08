@@ -1,0 +1,15 @@
+Z:\Programacion\TP_01BIS_LEE\bin\Debug\net7.0\TP_01BIS_LEE.exe
+Z:\Programacion\TP_01BIS_LEE\bin\Debug\net7.0\TP_01BIS_LEE.deps.json
+Z:\Programacion\TP_01BIS_LEE\bin\Debug\net7.0\TP_01BIS_LEE.runtimeconfig.json
+Z:\Programacion\TP_01BIS_LEE\bin\Debug\net7.0\TP_01BIS_LEE.dll
+Z:\Programacion\TP_01BIS_LEE\bin\Debug\net7.0\TP_01BIS_LEE.pdb
+Z:\Programacion\TP_01BIS_LEE\obj\Debug\net7.0\TP_01BIS_LEE.csproj.AssemblyReference.cache
+Z:\Programacion\TP_01BIS_LEE\obj\Debug\net7.0\TP_01BIS_LEE.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programacion\TP_01BIS_LEE\obj\Debug\net7.0\TP_01BIS_LEE.AssemblyInfoInputs.cache
+Z:\Programacion\TP_01BIS_LEE\obj\Debug\net7.0\TP_01BIS_LEE.AssemblyInfo.cs
+Z:\Programacion\TP_01BIS_LEE\obj\Debug\net7.0\TP_01BIS_LEE.csproj.CoreCompileInputs.cache
+Z:\Programacion\TP_01BIS_LEE\obj\Debug\net7.0\TP_01BIS_LEE.dll
+Z:\Programacion\TP_01BIS_LEE\obj\Debug\net7.0\refint\TP_01BIS_LEE.dll
+Z:\Programacion\TP_01BIS_LEE\obj\Debug\net7.0\TP_01BIS_LEE.pdb
+Z:\Programacion\TP_01BIS_LEE\obj\Debug\net7.0\TP_01BIS_LEE.genruntimeconfig.cache
+Z:\Programacion\TP_01BIS_LEE\obj\Debug\net7.0\ref\TP_01BIS_LEE.dll
